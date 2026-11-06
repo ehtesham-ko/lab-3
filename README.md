@@ -1,10 +1,15 @@
 # Lab 3: REST API, query parameters, validation, debugging
 
-**Name:** Mohammed Ehtesham  
-**Registration Number:** 2300030000  
-**Section:** CSE-B (Year II Term II · Aurora · Faculty: Joel Prashanth D)  
-**Live link:** https://lab-03-rest-api.onrender.com (Deployed on Render / Local: `http://localhost:3000`)  
-**Download Project Zip:** [📦 lab-03.zip](./lab-03.zip)
+| Field | Details |
+| :--- | :--- |
+| **Lab Number & Title** | Lab 3: REST API, query parameters, validation, debugging |
+| **Student Name** | Mohammed Ehtesham |
+| **Registration Number** | 252U1R5085 |
+| **Section** | AIDE-2B |
+| **Course** | Backend Development Fundamentals (Year II Term II) |
+| **Faculty** | Mr Yugandhar Gurjalwar |
+| **Live Link** | https://lab-03-rest-api.onrender.com (Deployed on Render / Local: `http://localhost:3000`) |
+| **Download Zip** | [📦 lab-03.zip](./lab-03.zip) |
 
 ---
 
