@@ -7,7 +7,7 @@
 | **Registration Number** | 252U1R5085 |
 | **Section** | AIDE-2B |
 | **Course** | Backend Development Fundamentals (Year II Term II) |
-| **Faculty** | Joel Prashanth D |
+| **Faculty** | Mr Yugandhar Gurjalwar |
 | **Live Link** | https://lab-04-auth-jwt.onrender.com (Deployed on Render / Local: `http://localhost:3000`) |
 | **Download Zip** | [📦 lab-04.zip](./lab-04.zip) |
 
