@@ -4,7 +4,7 @@
 | :--- | :--- |
 | **Lab Number & Title** | Lab 4: Registration, login and JWT |
 | **Student Name** | Mohammed Ehtesham |
-| **Registration Number** | 252U1R5085 |
+| **Registration Number** | 252U1R5103 |
 | **Section** | AIDE-2B |
 | **Course** | Backend Development Fundamentals (Year II Term II) |
 | **Faculty** | Mr Yugandhar Gurjalwar |
