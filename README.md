@@ -1,4 +1,19 @@
-# Lab 3: REST API, query parameters, validation, debugging
+# Backend Development Fundamentals (Year II Term II)
+
+**Student Name:** Mohammed Ehtesham  
+**Registration Number:** 252U1R5085  
+**Section:** AIDE-2B  
+
+## Course Labs Directory
+
+| Lab Folder | Lab Title | Status | Documentation & Code | Download Archive |
+| :--- | :--- | :--- | :--- | :--- |
+| [`lab-03/`](./lab-03/) | Lab 3: REST API, query parameters, validation, debugging | Completed | [README](./lab-03/README.md) | [📦 lab-03.zip](./lab-03.zip) |
+| [`lab-04/`](./lab-04/) | Lab 4: Registration, login and JWT | Completed | [README](./lab-04/README.md) | [📦 lab-04.zip](./lab-04.zip) |
+
+---
+
+# Lab 4: Registration, login and JWT
 
 | Field | Details |
 | :--- | :--- |
